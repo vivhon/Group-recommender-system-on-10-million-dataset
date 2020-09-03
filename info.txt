@@ -1,0 +1,7 @@
+changes
+29-01-2019
+1. Step and l variable is introducesd in this so k is replaced by l in all places where
+ matrix entry has been done ex in precision recall coverage mae error 
+ aggeration user matrix(usermae userprecision userrecall usercoverage)
+2. At the thime of decralation maxk is divided vy step
+3. changes are done in Fmeasure function
